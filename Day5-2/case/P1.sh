@@ -1,5 +1,5 @@
 #! /bin/bash -x
-
+#Read a single digit number and write number in word using case.
 read -p "enter single digit no." SingleDigit
 
 case $SingleDigit in
