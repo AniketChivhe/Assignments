@@ -1,5 +1,5 @@
 #! /bin/bash -x
-
+#Read a number 1,10,100,1000 etc and display unit,ten,hundred...
 read -p "Enter the numbers 1,10,100,1000 For units" num
 
 case $num in
