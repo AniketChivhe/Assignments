@@ -1,4 +1,6 @@
 #! /bin/bash -x
+#read a single digit number and write in word
+
 
 read -p "Enter the single digit no." num
 
