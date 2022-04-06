@@ -1,5 +1,7 @@
 #! /bin/bash -x
 
+#Read a number and display a week day.
+
 read -p "Enter the number between 1-7" Days
 
 case $Days in
